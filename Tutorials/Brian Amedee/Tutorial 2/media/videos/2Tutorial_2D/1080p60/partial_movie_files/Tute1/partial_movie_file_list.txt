@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Tutorial 2/media/videos/2Tutorial_2D/1080p60/partial_movie_files/Tute1/450974505_3979725662_3300460319.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Tutorial 2/media/videos/2Tutorial_2D/1080p60/partial_movie_files/Tute1/34786186_3312559286_3300460319.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Tutorial 2/media/videos/2Tutorial_2D/1080p60/partial_movie_files/Tute1/34786186_1152551009_564622974.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Tutorial 2/media/videos/2Tutorial_2D/1080p60/partial_movie_files/Tute1/34786186_4236162104_2840714528.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Tutorial 2/media/videos/2Tutorial_2D/1080p60/partial_movie_files/Tute1/34786186_1152551009_2376421247.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Tutorial 2/media/videos/2Tutorial_2D/1080p60/partial_movie_files/Tute1/34786186_88804781_1830221699.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Tutorial 2/media/videos/2Tutorial_2D/1080p60/partial_movie_files/Tute1/34786186_1152551009_995177400.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Tutorial 2/media/videos/2Tutorial_2D/1080p60/partial_movie_files/Tute1/34786186_3851698674_2481945438.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Tutorial 2/media/videos/2Tutorial_2D/1080p60/partial_movie_files/Tute1/34786186_1152551009_1626416252.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Tutorial 2/media/videos/2Tutorial_2D/1080p60/partial_movie_files/Tute1/34786186_1634718860_4229580899.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Tutorial 2/media/videos/2Tutorial_2D/1080p60/partial_movie_files/Tute1/34786186_1152551009_1794115134.mp4'

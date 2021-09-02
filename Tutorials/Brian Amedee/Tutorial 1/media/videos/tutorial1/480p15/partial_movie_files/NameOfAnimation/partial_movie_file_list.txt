@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Tutorial 1/media/videos/tutorial1/480p15/partial_movie_files/NameOfAnimation/3163782288_630102665_3839705488.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Tutorial 1/media/videos/tutorial1/480p15/partial_movie_files/NameOfAnimation/2201830969_1197863208_3839705488.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Tutorial 1/media/videos/tutorial1/480p15/partial_movie_files/NameOfAnimation/2201830969_3373813862_3839705488.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Tutorial 1/media/videos/tutorial1/480p15/partial_movie_files/NameOfAnimation/2201830969_426059949_3839705488.mp4'

@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Calculus/Sequences/media/videos/sequences/480p15/partial_movie_files/Sequences/3163782288_163874187_1333405370.mp4'

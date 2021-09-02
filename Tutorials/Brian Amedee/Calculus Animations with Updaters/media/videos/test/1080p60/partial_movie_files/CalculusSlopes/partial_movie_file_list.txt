@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Calculus Animations with Updaters/media/videos/test/1080p60/partial_movie_files/CalculusSlopes/450974505_3092594095_1333405370.mp4'

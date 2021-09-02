@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Calculus/Sequences/media/videos/sequences-3/480p15/partial_movie_files/AnimationShowIncreasingSubsets/3163782288_218389751_3771361604.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Calculus/Sequences/media/videos/sequences-3/480p15/partial_movie_files/AnimationShowIncreasingSubsets/2201830969_1152551009_2280451432.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Calculus/Sequences/media/videos/sequences-3/480p15/partial_movie_files/AnimationShowIncreasingSubsets/2201830969_1420052838_3841116585.mp4'

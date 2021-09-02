@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Calculus/Sequences/media/videos/sequences-3/480p15/partial_movie_files/MovingCameraOnGraph/3491917536_218389751_3771361604.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Calculus/Sequences/media/videos/sequences-3/480p15/partial_movie_files/MovingCameraOnGraph/2071990287_1186765707_2280451432.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Calculus/Sequences/media/videos/sequences-3/480p15/partial_movie_files/MovingCameraOnGraph/2071990287_1849328656_3841116585.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Calculus/Sequences/media/videos/sequences-3/480p15/partial_movie_files/MovingCameraOnGraph/2071990287_1186765707_724032076.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Calculus/Sequences/media/videos/sequences-3/480p15/partial_movie_files/MovingCameraOnGraph/1514175219_3049416323_1620476827.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Calculus/Sequences/media/videos/sequences-3/480p15/partial_movie_files/MovingCameraOnGraph/2937297328_11062876_1620476827.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Calculus/Sequences/media/videos/sequences-3/480p15/partial_movie_files/MovingCameraOnGraph/804992771_1599033341_1620476827.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Calculus/Sequences/media/videos/sequences-3/480p15/partial_movie_files/MovingCameraOnGraph/1978552417_1186765707_50674015.mp4'

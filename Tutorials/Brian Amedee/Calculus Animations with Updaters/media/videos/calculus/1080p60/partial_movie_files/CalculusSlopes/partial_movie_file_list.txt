@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Calculus Animations with Updaters/media/videos/calculus/1080p60/partial_movie_files/CalculusSlopes/450974505_2127326004_1333405370.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Calculus Animations with Updaters/media/videos/calculus/1080p60/partial_movie_files/CalculusSlopes/34786186_3878193978_1428833005.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Calculus Animations with Updaters/media/videos/calculus/1080p60/partial_movie_files/CalculusSlopes/34786186_3994675027_2187336726.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Calculus Animations with Updaters/media/videos/calculus/1080p60/partial_movie_files/CalculusSlopes/34786186_1152551009_838364274.mp4'

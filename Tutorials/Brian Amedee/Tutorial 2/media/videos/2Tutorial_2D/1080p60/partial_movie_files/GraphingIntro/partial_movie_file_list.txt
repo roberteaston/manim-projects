@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Tutorial 2/media/videos/2Tutorial_2D/1080p60/partial_movie_files/GraphingIntro/450974505_3979725662_3300460319.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Tutorial 2/media/videos/2Tutorial_2D/1080p60/partial_movie_files/GraphingIntro/34786186_4215232393_3300460319.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Tutorial 2/media/videos/2Tutorial_2D/1080p60/partial_movie_files/GraphingIntro/34786186_1152551009_1030260034.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Tutorial 2/media/videos/2Tutorial_2D/1080p60/partial_movie_files/GraphingIntro/34786186_2905405439_816840467.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Tutorial 2/media/videos/2Tutorial_2D/1080p60/partial_movie_files/GraphingIntro/34786186_1152551009_1537903994.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Tutorial 2/media/videos/2Tutorial_2D/1080p60/partial_movie_files/GraphingIntro/34786186_1687568489_3885530580.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Tutorial 2/media/videos/2Tutorial_2D/1080p60/partial_movie_files/GraphingIntro/34786186_3022486492_1539743920.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Tutorial 2/media/videos/2Tutorial_2D/1080p60/partial_movie_files/GraphingIntro/34786186_1152551009_3709221426.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Tutorial 2/media/videos/2Tutorial_2D/1080p60/partial_movie_files/GraphingIntro/34786186_2359774708_3649124493.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Brian Amedee/Tutorial 2/media/videos/2Tutorial_2D/1080p60/partial_movie_files/GraphingIntro/34786186_1152551009_655035305.mp4'
