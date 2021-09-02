@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Tutorials/Function Example/media/videos/func_example/1080p60/partial_movie_files/ThreeDSurface/854701121_1307787587_784377089.mp4'
+file 'file:C:/Users/easto/OneDrive - Cal Poly/Computer Projects/ManimCE/Tutorials/Function Example/media/videos/func_example/1080p60/partial_movie_files/ThreeDSurface/3104744724_1759436698_2234718709.mp4'
